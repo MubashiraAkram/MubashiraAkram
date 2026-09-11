@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi! I'm Mubashira Akram.👋
 
-<!--
+<!--A software engineering undergraduate and a passionate learner who's interested in code, logic and life sciences.
 **MubashiraAkram/MubashiraAkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
