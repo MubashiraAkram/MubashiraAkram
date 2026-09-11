@@ -1,17 +1,18 @@
 ## Hi! I'm Mubashira Akram.👋
-A software engineering undergraduate and a passionate learner who's interested in code, logic and life sciences.
+A software engineering undergraduate and a passionate learner who's interested in code, logic and life sciences. 💻✨
 
 This GitHub account serves as a workspace for the languages I'm currently learning which are C, C++, Java and Python. 
-I intend to explore on code that bridges biology and computer science ie. computational biology.
+
+I intend to explore on code that bridges biology and computer science ie. computational biology. 🧬🧫
 
 You can reach me via www.linkedin.com/in/mubaa-akr7465
 <!--
-**MubashiraAkram/MubashiraAkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MubashiraAkram/MubashiraAkram** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
