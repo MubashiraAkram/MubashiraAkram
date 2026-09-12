@@ -4,7 +4,7 @@ A software engineering undergraduate and a passionate learner who's interested i
 This GitHub account serves as a workspace for the languages I'm currently learning which are C, C++, Java and Python. 
 I intend to explore code that bridges biology and computer science ie. computational biology. 🧬🧫
 
-You can reach me via www.linkedin.com/in/mubaa-akr7465
+
 <!--
 **MubashiraAkram/MubashiraAkram** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
