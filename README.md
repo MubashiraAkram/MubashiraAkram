@@ -1,7 +1,7 @@
 ## Hi! I'm Mubashira Akram.👋
 A software engineering undergraduate and a passionate learner who's interested in code, logic and life sciences. 💻✨
 
-This GitHub account serves as a workspace for the languages I'm currently learning which are C, C++, Java and Python. 
+This GitHub account serves as a workspace for the languages I'm currently learning which are C, C#, Java and Python. 
 I intend to explore code that bridges biology and computer science ie. computational biology. 🧬🧫
 
 
